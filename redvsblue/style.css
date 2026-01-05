@@ -1,0 +1,20 @@
+/*
+Praneith Karunakumar
+November 7th 6:30pm
+the basic  styles for hompage website for my game
+*/
+body{
+	background-color: darkblue;
+	text-align: center; 
+}
+div{
+	background-color: #a83232;
+
+	margin: auto;
+	border: solid;
+	width: 600px;
+}
+a{
+	color: yellow;
+}
+/*end of the document*/
